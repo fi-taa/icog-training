@@ -1,0 +1,50 @@
+Intelligence - being capable
+AI - automating Intelligence
+
+ANI - weak AI. particular activity. e.g. recommendation,chatbot
+AGI - [hyperon]. needed to acheive IQ. three things needed to actualize : solving general problem, ?, and learning in random env't
+discussions:
+is llm AGI?
+what is turing-thesis?
+ASI - exceed human capacity. features : learn new things, creat new things, .put human's existence in danger.
+*AGI and ASI are not achieved.
+
+Agent - body act over an environment. sense with sensor and act with acutator. 
+
+**DSA in AI**
+
+*Graph*
+directed graph - 
+undirected graph -
+graphical representation: matrix, adjency list
+
+**searching algorithm**
+*BFS* - find a vertex , put in queue, iteratively deque the list and visit it until queue got empty.
+*DFS* - find a vertex, use stack, traverse the nodes
+
+path generating - assignment(path: ~project/icog/assigment1.py) - STATUS NOT DONE 
+
+"""
+link to assignment [https://docs.google.com/document/d/1B7vHTmsHvzEcwb345lTlx6OjsmHFdIcNR2E_97tgU28/edit] 
+clear implementation, variable naming, box tree for methods
+
+2. read text file and return graph object [city] and then implement a BFS | DFS and return path in list 
+
+str, repr - override
+hint - use dict, don't regenerate similar cities
+use comment in a function as a requirement
+graphical representation
+
+"""
+**Evolutionary algorithm(genetic)**
+
+genetic algorithm [use variant in hyperon]
+
+1. generate solutions function
+2. hold the solutions as population
+3. do fitness for population [fitness function mesaure each population]
+4. select fitted and do cross over
+5. new generation created
+6. 
+
+
