@@ -1,0 +1,19 @@
+SourceCity,DestinationCity
+New York,Los Angeles
+New York,Chicago
+New York,Houston
+Los Angeles,Chicago
+Los Angeles,Houston
+Chicago,Houston
+San Francisco,Los Angeles
+San Francisco,Chicago
+San Francisco,Houston
+Seattle,Los Angeles
+Seattle,Chicago
+Seattle,Houston
+Boston,Los Angeles
+Boston,Chicago
+Boston,Houston
+Miami,Los Angeles
+Miami,Chicago
+Miami,Houston
